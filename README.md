@@ -55,7 +55,6 @@
       height="30"
     />
   </a>
-  &nbsp;
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img
       src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
@@ -64,7 +63,6 @@
       height="30"
     />
   </a>
-  &nbsp;
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -73,7 +71,6 @@
       height="30"
     />
   </a>
-  &nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
@@ -82,7 +79,6 @@
       height="30"
     />
   </a>
-  &nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -91,7 +87,6 @@
       height="30"
     />
   </a>
-  &nbsp;
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -104,7 +99,6 @@
       height="30"
     />
   </a>
-  &nbsp;
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
@@ -113,7 +107,6 @@
       height="30"
     />
   </a>
-  &nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -122,7 +115,6 @@
       height="30"
     />
   </a>
-  &nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -131,7 +123,6 @@
       height="30"
     />
   </a>
-  &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -140,7 +131,6 @@
       height="30"
     />
   </a>
-  &nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -149,7 +139,6 @@
       height="30"
     />
   </a>
-  &nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -158,7 +147,6 @@
       height="30"
     />
   </a>
-  &nbsp;
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
@@ -167,5 +155,9 @@
       height="30"
     />
   </a>
-  &nbsp;
 </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswathy05&show_icons=true&locale=en&layout=compact" alt="aswathy05" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswathy05&show_icons=true&locale=en" alt="aswathy05" /></p>
