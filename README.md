@@ -5,7 +5,8 @@
 
 <style>
   a{
-    margin-left: 40px;
+    margin-right: 40px;
+    color: yello;
   }
 </style>
 
