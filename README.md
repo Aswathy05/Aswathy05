@@ -3,6 +3,12 @@
 <br>
 <br>
 
+<style>
+  a{
+    margin-left: 10px;
+  }
+</style>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/aswathy a r" target="blank"
