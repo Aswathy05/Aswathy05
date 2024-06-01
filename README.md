@@ -5,7 +5,7 @@
 
 <style>
   a{
-    margin-left: 10px;
+    margin-left: 40px;
   }
 </style>
 
