@@ -6,7 +6,7 @@
 <style>
   a{
     margin-right: 40px;
-    color: yello;
+    color: "yellow";
   }
 </style>
 
