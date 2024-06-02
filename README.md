@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Aswathy A R</h1>
-<h3 align="center">A passionate Front-End Developer and Competitive Programmer</h3>
+<h3 align="center">Aspiring Front-End Developer and Passionate Competitive Programmer</h3>
 <br>
 <br>
 
